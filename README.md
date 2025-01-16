@@ -1,7 +1,7 @@
 # Gym Tracker
 Gym Tracker to show the day's workout and provide a way of keeping track of which workouts you have completed in your routine.
 
-<img src="https://github.com/MatthewSoars/Gym_Tracker/blob/main/gym.gif" width="50%" style="margin-bottom: 20px;">
+<img src="https://github.com/MatthewSoars/Gym_Tracker/blob/main/resources/gym.gif" width="50%" style="margin-bottom: 20px;">
 
 ## Proposal
 Keeping track of your daily gym workouts when following a routine typically involves the use of a paid app or notes software, which must be constantly updated.  
