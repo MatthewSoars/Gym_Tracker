@@ -19,8 +19,23 @@ Throughout this project, I am going to use the Agile Sprint methodology combined
 
 At my company, we typically use Jira, so switching from that to GitHub Projects required a change in mentality. Instead of creating epics that cover broad topics and then using smaller connected issues to break them down into manageable chunks, GitHub Projects only has issues, which can have child issues. For clarity in this report, I will refer to the bigger issues as epics and the smaller tickets as issues. 
 
-To cater to this and my chosen methodology of Agile Sprints, I have created two epics: 
+To cater to this and my chosen methodology of Agile Sprints, I have created two epics with issues: 
 - [**"Create Base UI"**: Covers the frontend design and development.](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=93885621&issue=MatthewSoars%7CGym_Tracker%7C1)
 - [**"Create Functionality"**: Covers the backend development and how the tracker will function.](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=94027260&issue=MatthewSoars%7CGym_Tracker%7C6)
 
 (Both of these epics can be seen on the main roadmap as well as their connected issues on the projects tap)
+
+# Development
+
+For each point of development, I will match it with an Issue/Epic via links.
+
+## [Create Base UI](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=93885621&issue=MatthewSoars%7CGym_Tracker%7C1)
+
+The PR and branch can be viewed [here](https://github.com/MatthewSoars/Gym_Tracker/pull/10), as I will not delete the branch.
+
+1. To start this epic, I first needed to create tests following Test-Driven Development guidelines as described in this [issue](https://github.com/MatthewSoars/Gym_Tracker/issues/11). These tests ensure that once the full epic is completed, I can run the test file, which should result in a pass. If the tests fail, it indicates that the current implementation does not meet the initial requirements. (I pushed the test file last to the branch to verify that everything worked correctly.)
+2. Next, I set up my basic HTML file and configured GitHub Pages to link as per [#5 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/5). For now, I used the "Create Base UI" branch, but once finished, I switched it back to "Develop."
+3. Then, I created a heading titled "Gym Tracker" and updated the page name to match, as described in [#4 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/4).
+4. Following that, I added a list element where the gym activities, along with the required reps and sets, would be displayed, as per [#3 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/3).
+5. Afterward, I worked on the CSS and styling as per [#2 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/2). This step took the most time due to my inexperience with frontend web development. In the future, I may consider using pre-made CSS frameworks to save time.
+6. Finally, I ran my tests, which successfully passed. This allowed me to commit and push the tests and then merge the PR.
