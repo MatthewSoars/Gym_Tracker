@@ -39,3 +39,6 @@ The PR and branch can be viewed [here](https://github.com/MatthewSoars/Gym_Track
 4. Following that, I added a list element where the gym activities, along with the required reps and sets, would be displayed, as per [#3 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/3).
 5. Afterward, I worked on the CSS and styling as per [#2 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/2). This step took the most time due to my inexperience with frontend web development. In the future, I may consider using pre-made CSS frameworks to save time.
 6. Finally, I ran my tests, which successfully passed. This allowed me to commit and push the tests and then merge the PR.
+
+## [Create Functionality](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=94027260&issue=MatthewSoars%7CGym_Tracker%7C6)
+
