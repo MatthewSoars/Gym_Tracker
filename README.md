@@ -20,6 +20,7 @@ Throughout this project, I am going to use the Agile Sprint methodology combined
 At my company, we typically use Jira, so switching from that to GitHub Projects required a change in mentality. Instead of creating epics that cover broad topics and then using smaller connected issues to break them down into manageable chunks, GitHub Projects only has issues, which can have child issues. For clarity in this report, I will refer to the bigger issues as epics and the smaller tickets as issues. 
 
 To cater to this and my chosen methodology of Agile Sprints, I have created two epics: 
-- **"Create Base UI"**: Covers the frontend design and development.
-- **"Create Functionality"**: Covers the backend development and how the tracker will function.
+- [**"Create Base UI"**: Covers the frontend design and development.](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=93885621&issue=MatthewSoars%7CGym_Tracker%7C1)
+- [**"Create Functionality"**: Covers the backend development and how the tracker will function.](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=94027260&issue=MatthewSoars%7CGym_Tracker%7C6)
+
 (Both of these epics can be seen on the main roadmap as well as their connected issues on the projects tap)
