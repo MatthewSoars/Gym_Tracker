@@ -1,0 +1,17 @@
+[
+  {
+    "exercise": "Push-ups",
+    "sets": 3,
+    "reps": 15
+  },
+  {
+    "exercise": "Squats",
+    "sets": 3,
+    "reps": 20
+  },
+  {
+    "exercise": "Plank",
+    "sets": 3,
+    "reps": "1 Minute"
+  }
+]
