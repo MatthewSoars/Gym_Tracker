@@ -1,0 +1,132 @@
+{
+  "Monday": [
+    {
+      "exercise": "Chest Press Machine",
+      "sets": 4,
+      "reps": 8
+    },
+    {
+      "exercise": "Incline Dumbbell Press",
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "exercise": "Overhead Dumbbell Shoulder Press",
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "exercise": "Lateral Raises",
+      "sets": 3,
+      "reps": 12
+    },
+    {
+      "exercise": "Tricep Pushdowns (Cable)",
+      "sets": 3,
+      "reps": 12
+    },
+    {
+      "exercise": "Overhead Tricep Extensions (Dumbbell)",
+      "sets": 3,
+      "reps": 12
+    }
+  ],
+
+  "Tuesday": [
+    {
+      "exercise": "Goblet Squats",
+      "sets": 4,
+      "reps": 12
+    },
+    {
+      "exercise": "Romanian Deadlifts",
+      "sets": 3,
+      "reps": 12
+    },
+    {
+      "exercise": "Bulgarian Split Squats",
+      "sets": 3,
+      "reps": 10
+    },
+    {
+      "exercise": "Leg Press Machine",
+      "sets": 4,
+      "reps": 12
+    },
+    {
+      "exercise": "Calf Raises",
+      "sets": 4,
+      "reps": 15
+    },
+    {
+      "exercise": "Jump Squats",
+      "sets": 3,
+      "reps": 10
+    }
+  ],
+
+  "Wednesday": [
+    {
+      "exercise": "Lat Pull-Down Machine",
+      "sets": 4,
+      "reps": 12
+    },
+    {
+      "exercise": "Seated Cable Rows",
+      "sets": 4,
+      "reps": 12
+    },
+    {
+      "exercise": "Face Pulls (Cable)",
+      "sets": 3,
+      "reps": 15
+    },
+    {
+      "exercise": "Dumbbell Bicep Curls",
+      "sets": 3,
+      "reps": 12
+    },
+    {
+      "exercise": "Hammer Curls",
+      "sets": 3,
+      "reps": 12
+    }
+  ],
+
+  "Thursday": [
+    {
+      "exercise": "Hockey training",
+      "sets": "N/A",
+      "reps": "N/A"
+    }
+  ],
+
+  "Friday": [
+    {
+      "exercise": "Swimming",
+      "sets": "N/A",
+      "reps": "N/A"
+    },
+    {
+      "exercise": "Spa muscle recovery",
+      "sets": "N/A",
+      "reps": "N/A"
+    }
+  ],
+
+  "Saturday": [
+    {
+      "exercise": "Hockey Match",
+      "sets": "N/A",
+      "reps": "N/A"
+    }
+  ],
+
+  "Sunday": [
+    {
+      "exercise": "Rest Day",
+      "sets": "N/A",
+      "reps": "N/A"
+    }
+  ]
+}
