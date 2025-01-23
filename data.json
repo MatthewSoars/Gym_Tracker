@@ -1,17 +1,127 @@
-[
-  {
-    "exercise": "Push-ups",
-    "sets": 3,
-    "reps": 15
-  },
-  {
-    "exercise": "Squats",
-    "sets": 3,
-    "reps": 20
-  },
-  {
-    "exercise": "Plank",
-    "sets": 3,
-    "reps": "1 Minute"
-  }
-]
+{
+  "Monday": [
+    {
+      "exercise": "Push-ups",
+      "sets": 3,
+      "reps": 15
+    },
+    {
+      "exercise": "Squats",
+      "sets": 3,
+      "reps": 20
+    },
+    {
+      "exercise": "Plank",
+      "sets": 3,
+      "reps": "1 Minute"
+    }
+  ],
+
+  "Tuesday": [
+    {
+      "exercise": "Push-ups",
+      "sets": 3,
+      "reps": 15
+    },
+    {
+      "exercise": "Squats",
+      "sets": 3,
+      "reps": 20
+    },
+    {
+      "exercise": "Plank",
+      "sets": 3,
+      "reps": "1 Minute"
+    }
+  ],
+
+  "Wednesday": [
+    {
+      "exercise": "Push-ups",
+      "sets": 3,
+      "reps": 15
+    },
+    {
+      "exercise": "Squats",
+      "sets": 3,
+      "reps": 20
+    },
+    {
+      "exercise": "Plank",
+      "sets": 3,
+      "reps": "1 Minute"
+    }
+  ],
+
+  "Thursday": [
+    {
+      "exercise": "Push-ups",
+      "sets": 3,
+      "reps": 15
+    },
+    {
+      "exercise": "Squats",
+      "sets": 3,
+      "reps": 20
+    },
+    {
+      "exercise": "Plank",
+      "sets": 3,
+      "reps": "1 Minute"
+    }
+  ],
+
+  "Friday": [
+    {
+      "exercise": "Push-ups",
+      "sets": 3,
+      "reps": 15
+    },
+    {
+      "exercise": "Squats",
+      "sets": 3,
+      "reps": 20
+    },
+    {
+      "exercise": "Plank",
+      "sets": 3,
+      "reps": "1 Minute"
+    }
+  ],
+
+  "Saturday": [
+    {
+      "exercise": "Push-ups",
+      "sets": 3,
+      "reps": 15
+    },
+    {
+      "exercise": "Squats",
+      "sets": 3,
+      "reps": 20
+    },
+    {
+      "exercise": "Plank",
+      "sets": 3,
+      "reps": "1 Minute"
+    }
+  ],
+
+  "Sunday": [
+    {
+      "exercise": "Push-ups",
+      "sets": 3,
+      "reps": 15
+    },
+    {
+      "exercise": "Squats",
+      "sets": 3,
+      "reps": 20
+    },
+    {
+      "exercise": "Plank",
+      "sets": 3,
+      "reps": "1 Minute"
+    }
+  ]
+}
