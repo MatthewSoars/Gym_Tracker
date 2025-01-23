@@ -18,7 +18,6 @@ async function loadWorkoutData() {
         workoutList.innerHTML = `<h2>${today}'s Workout</h2>`; // Display the day
 
 
-
         data[today].forEach(item => {
             const listItem = document.createElement('li');
             listItem.innerHTML = `${item.exercise} <span>${item.sets} Sets of ${item.reps}</span>`;
