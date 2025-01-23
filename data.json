@@ -1,127 +1,132 @@
 {
   "Monday": [
     {
-      "exercise": "Push-ups",
-      "sets": 3,
-      "reps": 15
+      "exercise": "Chest Press Machine",
+      "sets": 4,
+      "reps": 8
     },
     {
-      "exercise": "Squats",
+      "exercise": "Incline Dumbbell Press",
       "sets": 3,
-      "reps": 20
+      "reps": 8
     },
     {
-      "exercise": "Plank",
+      "exercise": "Overhead Dumbbell Shoulder Press",
       "sets": 3,
-      "reps": "1 Minute"
+      "reps": 8
+    },
+    {
+      "exercise": "Lateral Raises",
+      "sets": 3,
+      "reps": 12
+    },
+    {
+      "exercise": "Tricep Pushdowns (Cable)",
+      "sets": 3,
+      "reps": 12
+    },
+    {
+      "exercise": "Overhead Tricep Extensions (Dumbbell)",
+      "sets": 3,
+      "reps": 12
     }
   ],
 
   "Tuesday": [
     {
-      "exercise": "Push-ups",
+      "exercise": "Goblet Squats",
+      "sets": 4,
+      "reps": 12
+    },
+    {
+      "exercise": "Romanian Deadlifts",
       "sets": 3,
+      "reps": 12
+    },
+    {
+      "exercise": "Bulgarian Split Squats",
+      "sets": 3,
+      "reps": 10
+    },
+    {
+      "exercise": "Leg Press Machine",
+      "sets": 4,
+      "reps": 12
+    },
+    {
+      "exercise": "Calf Raises",
+      "sets": 4,
       "reps": 15
     },
     {
-      "exercise": "Squats",
+      "exercise": "Jump Squats",
       "sets": 3,
-      "reps": 20
-    },
-    {
-      "exercise": "Plank",
-      "sets": 3,
-      "reps": "1 Minute"
+      "reps": 10
     }
   ],
 
   "Wednesday": [
     {
-      "exercise": "Push-ups",
+      "exercise": "Lat Pull-Down Machine",
+      "sets": 4,
+      "reps": 12
+    },
+    {
+      "exercise": "Seated Cable Rows",
+      "sets": 4,
+      "reps": 12
+    },
+    {
+      "exercise": "Face Pulls (Cable)",
       "sets": 3,
       "reps": 15
     },
     {
-      "exercise": "Squats",
+      "exercise": "Dumbbell Bicep Curls",
       "sets": 3,
-      "reps": 20
+      "reps": 12
     },
     {
-      "exercise": "Plank",
+      "exercise": "Hammer Curls",
       "sets": 3,
-      "reps": "1 Minute"
+      "reps": 12
     }
   ],
 
   "Thursday": [
     {
-      "exercise": "Push-ups",
-      "sets": 3,
-      "reps": 15
-    },
-    {
-      "exercise": "Squats",
-      "sets": 3,
-      "reps": 20
-    },
-    {
-      "exercise": "Plank",
-      "sets": 3,
-      "reps": "1 Minute"
+      "exercise": "Hockey training",
+      "sets": "N/A",
+      "reps": "N/A"
     }
   ],
 
   "Friday": [
     {
-      "exercise": "Push-ups",
-      "sets": 3,
-      "reps": 15
+      "exercise": "Swimming",
+      "sets": "N/A",
+      "reps": "N/A"
     },
     {
-      "exercise": "Squats",
-      "sets": 3,
-      "reps": 20
-    },
-    {
-      "exercise": "Plank",
-      "sets": 3,
-      "reps": "1 Minute"
+      "exercise": "Spa muscle recovery",
+      "sets": "N/A",
+      "reps": "N/A"
     }
   ],
 
   "Saturday": [
     {
-      "exercise": "Push-ups",
-      "sets": 3,
-      "reps": 15
-    },
-    {
-      "exercise": "Squats",
-      "sets": 3,
-      "reps": 20
-    },
-    {
-      "exercise": "Plank",
-      "sets": 3,
-      "reps": "1 Minute"
+      "exercise": "Hockey Match",
+      "sets": "N/A",
+      "reps": "N/A"
     }
   ],
 
   "Sunday": [
     {
-      "exercise": "Push-ups",
-      "sets": 3,
-      "reps": 15
-    },
-    {
-      "exercise": "Squats",
-      "sets": 3,
-      "reps": 20
-    },
-    {
-      "exercise": "Plank",
-      "sets": 3,
-      "reps": "1 Minute"
+      "exercise": "Rest Day",
+      "sets": "N/A",
+      "reps": "N/A"
     }
   ]
 }
