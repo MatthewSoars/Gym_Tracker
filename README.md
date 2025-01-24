@@ -53,3 +53,22 @@ The PR and branch can be viewed [here](https://github.com/MatthewSoars/Gym_Track
 3. Then, as described in [#8 issue](https://github.com/MatthewSoars/Gym_Tracker/issues/8), I made it so dynamically based on the day of the week the right workout loads from json file made within the last step. For now I populated this with the same for each day as I will be filling in my specific workout in the next step.
 4. Penultimately, I then fill in my routine matching my day by day workout [#9 issue](https://github.com/MatthewSoars/Gym_Tracker/issues/9)
 5. Finally, I ran my tests, which at first didnt successfully pass but after some investigation this was due to an error I made when creating the test but luckily not with the code, so I ran again with the changes where then it passed successfully. This allowed me to commit and push the tests and then merge the PR.
+
+# Evaluation
+Within the next section I will be evaluating the current state of MVP
+
+## Final MVP
+As can be seen bellow both the mobile and the desktop version of the MVP closely match inital design spec which I created within Figma bar the tick boxes which I will be explaning within my limitations section. It is important to note that the page does change depending on the day matching the orginal spec as can be seen bellow the picture was taken on a friday.
+<img src="https://github.com/MatthewSoars/Gym_Tracker/blob/main/resources/mvp.png" style="margin-bottom: 20px;">
+<img src="https://github.com/MatthewSoars/Gym_Tracker/blob/main/resources/mvp_mobile.png" style="margin-bottom: 20px;">
+
+## Limitations
+- One limitation which I found when planning/developing was an inbuild issue with hosting my site through GitHub is currently only static sites can be used meaning that my current idea for ticking off the websites wouldnt of been viable with my current hosting as if the site was accidently refreshed which is more lickely to happen in a gym setting all the ticks will be lost.
+
+## Future Additions
+- Changing hosting to allow if an item is complete it will stay complete however to match inital requirements this also needs to be a free solution
+- Once hosting is changed I want an ability to log and track how many days I have completed which I would also like to be intergrated with emails to give me a monthly summary of my dedication to the gym
+- Adapting website into an app so that it is even easier to use on the fly 
+
+## Final Conclusion
+Overall I am happy with my MVP and defineltly will be using this to tell me what workouts I need to complete on a day to day basis, I have already covered some of the future additions I wish to make and I will be attempting them as currently I have no better solution for this real problem I face and as previously mentioned I refuse to spend money on any existing solution. So this website fufils my basic guidelines looks wise and use wise specifically in the department of dynamically displaying my days workout at a glance, so I am happy moving forward based on this MVP.
