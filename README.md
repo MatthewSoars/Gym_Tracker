@@ -29,11 +29,15 @@ To cater to this and my chosen methodology of Agile Sprints, I have created two 
 
 For each point of development, I will match it with an Issue/Epic via links.
 
+For each stage of development test driven development is important within two ways
+- **Unit Tests** - Which will be achived through the use of unit testing which will need to pass before merging is allowed into main branch
+- **Visual / Manual Acceptance Testing** -  Which will be achieved through individual criteria set by each ticket/issue which will be manually checked by reviewers 
+
 ## [Create Base UI](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=93885621&issue=MatthewSoars%7CGym_Tracker%7C1)
 
 The PR and branch can be viewed [here](https://github.com/MatthewSoars/Gym_Tracker/pull/10), as I will not delete the branch.
 
-1. To start this epic, I first needed to create tests following Test-Driven Development guidelines as described in this [issue](https://github.com/MatthewSoars/Gym_Tracker/issues/11). These tests ensure that once the full epic is completed, I can run the test file, which should result in a pass. If the tests fail, it indicates that the current implementation does not meet the initial requirements. (I pushed the test file last to the branch to verify that everything worked correctly.)
+1. To start this epic, I first needed to create tests following Test-Driven Development guidelines as described in this [#11 issue](https://github.com/MatthewSoars/Gym_Tracker/issues/11). These tests ensure that once the full epic is completed, I can run the test file, which should result in a pass. If the tests fail, it indicates that the current implementation does not meet the initial requirements. (I pushed the test file last to the branch to verify that everything worked correctly.)
 2. Next, I set up my basic HTML file and configured GitHub Pages to link as per [#5 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/5). For now, I used the "Create Base UI" branch, but once finished, I switched it back to "Develop."
 3. Then, I created a heading titled "Gym Tracker" and updated the page name to match, as described in [#4 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/4).
 4. Following that, I added a list element where the gym activities, along with the required reps and sets, would be displayed, as per [#3 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/3).
@@ -42,3 +46,10 @@ The PR and branch can be viewed [here](https://github.com/MatthewSoars/Gym_Track
 
 ## [Create Functionality](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=94027260&issue=MatthewSoars%7CGym_Tracker%7C6)
 
+The PR and branch can be viewed [here](https://github.com/MatthewSoars/Gym_Tracker/pull/14), as I will not delete the branch.
+
+1. To begin, this epic I first need to create unit tests following my Test-Drive Development methodology, by which the specifics can be found within this [#13 issue](https://github.com/MatthewSoars/Gym_Tracker/issues/13). Again to ensure these tests complete I will be commiting and pushing this to my new branch once they run on the finished pull request successfully.
+2. Next I needed to make is so instead of the workouts being hard coded they load from a file as described and display on the ui as in [#7 issue](https://github.com/MatthewSoars/Gym_Tracker/issues/7).
+3. Then, as described in [#8 issue](https://github.com/MatthewSoars/Gym_Tracker/issues/8), I made it so dynamically based on the day of the week the right workout loads from json file made within the last step. For now I populated this with the same for each day as I will be filling in my specific workout in the next step.
+4. Penultimately, I then fill in my routine matching my day by day workout [#9 issue](https://github.com/MatthewSoars/Gym_Tracker/issues/9)
+5. Finally, I ran my tests, which at first didnt successfully pass but after some investigation this was due to an error I made when creating the test but luckily not with the code, so I ran again with the changes where then it passed successfully. This allowed me to commit and push the tests and then merge the PR.
