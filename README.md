@@ -9,6 +9,11 @@ Gym Tracker to show the day's workout and provide a way of keeping track of whic
 Keeping track of your daily gym workouts when following a routine typically involves the use of a paid app or notes software, which must be constantly updated.  
 Therefore, the idea behind this tracker is to show the day's workout automatically and allow the user to tick them off as they go through their routine.
 
+The main requirements for the project, therefore, are as follows - 
+- Needs to show workout for that day
+- Needs to be free
+- Needs to viewable on a phone screen
+
 ### Initial Design
 
 <img src="https://github.com/MatthewSoars/Gym_Tracker/blob/main/resources/inital_design.png" style="margin-bottom: 20px;">
@@ -37,7 +42,7 @@ For each stage of development, test-driven development is important in two ways:
 - **Unit Tests** - These will be achieved through unit testing, which will need to pass before merging is allowed into the main branch.  
 - **Visual / Manual Acceptance Testing** - This will be achieved through individual criteria set by each ticket/issue, which will be manually checked by reviewers.  
 
-### [Create Base UI](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=93885621&issue=MatthewSoars%7CGym_Tracker%7C1)
+## [Create Base UI](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=93885621&issue=MatthewSoars%7CGym_Tracker%7C1)
 
 The PR and branch can be viewed [here](https://github.com/MatthewSoars/Gym_Tracker/pull/10), as I will not delete the branch.
 
@@ -48,7 +53,7 @@ The PR and branch can be viewed [here](https://github.com/MatthewSoars/Gym_Track
 5. Afterward, I worked on the CSS and styling as per [#2 Issue](https://github.com/MatthewSoars/Gym_Tracker/issues/2). This step took the most time due to my inexperience with frontend web development. In the future, I may consider using pre-made CSS frameworks to save time.
 6. Finally, I ran my tests, which successfully passed. This allowed me to commit and push the tests and then merge the PR.
 
-### [Create Functionality](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=94027260&issue=MatthewSoars%7CGym_Tracker%7C6)
+## [Create Functionality](https://github.com/users/MatthewSoars/projects/2/views/1?pane=issue&itemId=94027260&issue=MatthewSoars%7CGym_Tracker%7C6)
 
 The PR and branch can be viewed [here](https://github.com/MatthewSoars/Gym_Tracker/pull/14), as I will not delete the branch.
 
