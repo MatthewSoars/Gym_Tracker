@@ -80,6 +80,7 @@ As can be seen below, both the mobile and desktop versions of the MVP closely ma
 
 ### Future Additions
 
+- Make it so that through the use of GitHub Actions the unit tests are run in the PR and will block the merge if not ran successfully.
 - Change hosting to allow items marked as complete to remain complete. To match the initial requirements, this needs to remain a free solution.  
 - Add the ability to log and track how many days I’ve completed. I’d also like to integrate this with email summaries showing my monthly dedication to the gym.  
 - Adapt the website into an app for even easier use on the go.
